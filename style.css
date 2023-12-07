@@ -20,17 +20,17 @@ body, html{
 }
 
 .pimg1{
-    background-image: url(img/Mountain1.jpg);
+    background-image: url(Mountain1.jpg);
     min-height: 100%;
 }
 
 .pimg2{
-    background-image: url(img/mountain2.jpg);
+    background-image: url(mountain2.jpg);
     min-height: 100%;
 }
 
 .pimg3{
-    background-image: url(img/mountain3.jpg);
+    background-image: url(mountain3.jpg);
     min-height: 100%;
 }
 
